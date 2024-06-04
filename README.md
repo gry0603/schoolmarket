@@ -74,6 +74,6 @@
 
 ![img_7](https://github.com/gry0603/schoolmarket/blob/master/%E5%89%8D%E7%AB%AF.png)
 
-![img_10](https://github.com/yeshuang2/campus-second-hands/assets/65081283/b3bda6bb-7a29-43a5-9236-f463b7813ea1)
+![img_10](https://github.com/gry0603/schoolmarket/blob/master/%E6%B1%82%E8%B4%AD.png)
 
 
