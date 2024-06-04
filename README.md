@@ -71,7 +71,7 @@
 
 ## 四、前台部分页面展示
 
-![img_7](https://github.com/yeshuang2/campus-second-hands/assets/65081283/bfab7775-41da-408d-8608-594519742343)
+![img_7](https://github.com/gry0603/schoolmarket/blob/master/%E5%89%8D%E7%AB%AF.png)
 
 ![img_10](https://github.com/yeshuang2/campus-second-hands/assets/65081283/b3bda6bb-7a29-43a5-9236-f463b7813ea1)
 
