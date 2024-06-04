@@ -25,7 +25,8 @@
 
 访问url
 
-后台：8080  初始 可用账号 admin  123456
+后台：/system/login  
+初始 可用账号 admin  123456
 
 前台：/home/index/index  
 
@@ -66,7 +67,7 @@
 
 ## 三、后台部分页面展示
 
-![img_3](https://github.com/yeshuang2/campus-second-hands/assets/65081283/15d4213b-84bf-48fd-afdb-feeeaf8ca31a)
+![img_3](https://github.com/gry0603/schoolmarket/blob/master/%E5%90%8E%E7%AB%AF.png)
 
 
 ## 四、前台部分页面展示
